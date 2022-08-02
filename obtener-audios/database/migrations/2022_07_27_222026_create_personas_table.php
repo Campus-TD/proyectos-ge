@@ -24,6 +24,7 @@ class CreatePersonasTable extends Migration
             $table->string('word1');
             $table->string('word22');
             $table->string('word33');
+            //asdasdasdnjasnjdas
             $table->string('url_audio1');
             $table->string('url_audio2');
             $table->string('url_audio3');
